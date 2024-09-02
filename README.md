@@ -1,5 +1,4 @@
-Welcome at my profile!
-
+### Boas vindas ao meu perfil 
 
 - 👋 Hi, I’m @LuizHenrique26
 - 👀 I’m interested in ...
@@ -9,7 +8,6 @@ Welcome at my profile!
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<!---
-LuizHenrique26/LuizHenrique26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**LuizHenrique26/LuizHenrique26** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
