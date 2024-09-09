@@ -1,13 +1,13 @@
-### Boas vindas ao meu perfil 
+###  Boas vindas ao meu perfil 
 
-- 👋 Hi, I’m @LuizHenrique26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Meu nome é Luiz Henrique
+
+Sou estudante
+Estou descobrindo ao longo da caminhada, o que eu quero fazer para me sustentar
+Utilizo esse espaço para aprender o que o curso da alura possa promover para mim
+
+###  Você pode entrar em contato comigo com:
+
+00001141755725sp@al.educacao.sp.gov.br
 
 
-**LuizHenrique26/LuizHenrique26** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
